@@ -305,13 +305,13 @@
       "label": "HOME"
     },
     {
+      "keyCode": 40,
+      "label": "ENTER"
+    },
+    {
       "keyCode": 17493,
       "label": "1",
       "extraLabel": "MOVE"
-    },
-    {
-      "keyCode": 40,
-      "label": "ENTER"
     },
     {
       "keyCode": 77,
@@ -381,7 +381,7 @@
     4,
     2,
     8,
-    6,
+    11,
     5,
     4,
     4,
@@ -417,7 +417,7 @@
     5,
     2,
     8,
-    11,
+    6,
     4,
     4,
     4,

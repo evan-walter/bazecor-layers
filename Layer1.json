@@ -395,13 +395,8 @@
       "verbose": "Disabled"
     },
     {
-      "keyCode": 17494,
-      "label": "2",
-      "extraLabel": "MOVE"
-    },
-    {
-      "keyCode": 17492,
-      "label": "0",
+      "keyCode": 17493,
+      "label": "1",
       "extraLabel": "MOVE"
     },
     {
@@ -413,6 +408,11 @@
     {
       "keyCode": 17492,
       "label": "0",
+      "extraLabel": "MOVE"
+    },
+    {
+      "keyCode": 17494,
+      "label": "2",
       "extraLabel": "MOVE"
     },
     {
@@ -481,8 +481,8 @@
     6,
     6,
     2,
-    1,
     4,
+    11,
     5,
     6,
     6,
@@ -517,8 +517,8 @@
     6,
     5,
     2,
+    1,
     4,
-    11,
     6,
     6,
     6,
