@@ -201,8 +201,9 @@
       "label": "\\"
     },
     {
-      "keyCode": 225,
+      "keyCode": 49154,
       "label": "LEFT SHIFT",
+      "extraLabel": "OSM",
       "verbose": "Left Shift"
     },
     {
@@ -266,9 +267,9 @@
       "label": "/"
     },
     {
-      "keyCode": 229,
+      "keyCode": 49158,
       "label": "RIGHT SHIFT",
-      "extraLabel": "",
+      "extraLabel": "OSM",
       "verbose": "Right Shift"
     },
     {
@@ -301,8 +302,9 @@
       "verbose": "Disabled"
     },
     {
-      "keyCode": 74,
-      "label": "HOME"
+      "keyCode": 17494,
+      "label": "2",
+      "extraLabel": "MOVE"
     },
     {
       "keyCode": 40,
@@ -314,8 +316,9 @@
       "extraLabel": "MOVE"
     },
     {
-      "keyCode": 77,
-      "label": "END"
+      "keyCode": 17496,
+      "label": "4",
+      "extraLabel": "MOVE"
     },
     {
       "keyCode": 44,
@@ -380,7 +383,7 @@
     4,
     4,
     2,
-    8,
+    1,
     11,
     5,
     4,
@@ -416,7 +419,7 @@
     4,
     5,
     2,
-    8,
+    2,
     6,
     4,
     4,

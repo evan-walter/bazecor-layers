@@ -1,8 +1,10 @@
 {
   "keymap": [
     {
-      "keyCode": 41,
-      "label": "ESC"
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
     },
     {
       "keyCode": 65535,
@@ -362,10 +364,9 @@
       "verbose": "Transparent"
     },
     {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
+      "keyCode": 17495,
+      "label": "3",
+      "extraLabel": "MOVE"
     },
     {
       "keyCode": 65535,
@@ -395,8 +396,8 @@
       "verbose": "Disabled"
     },
     {
-      "keyCode": 17493,
-      "label": "1",
+      "keyCode": 17494,
+      "label": "2",
       "extraLabel": "MOVE"
     },
     {
@@ -411,8 +412,8 @@
       "extraLabel": "MOVE"
     },
     {
-      "keyCode": 17494,
-      "label": "2",
+      "keyCode": 17496,
+      "label": "4",
       "extraLabel": "MOVE"
     },
     {
@@ -481,7 +482,7 @@
     6,
     6,
     2,
-    4,
+    1,
     11,
     5,
     6,
@@ -517,7 +518,7 @@
     6,
     5,
     2,
-    1,
+    2,
     4,
     6,
     6,
