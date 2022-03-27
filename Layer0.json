@@ -201,9 +201,8 @@
       "label": "\\"
     },
     {
-      "keyCode": 49154,
+      "keyCode": 225,
       "label": "LEFT SHIFT",
-      "extraLabel": "OSM",
       "verbose": "Left Shift"
     },
     {
@@ -267,9 +266,9 @@
       "label": "/"
     },
     {
-      "keyCode": 49158,
+      "keyCode": 229,
       "label": "RIGHT SHIFT",
-      "extraLabel": "OSM",
+      "extraLabel": "",
       "verbose": "Right Shift"
     },
     {
