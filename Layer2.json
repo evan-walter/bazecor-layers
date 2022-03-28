@@ -126,9 +126,8 @@
       "verbose": "Transparent"
     },
     {
-      "keyCode": 75,
-      "label": "PAGE UP",
-      "verbose": "Page Up"
+      "keyCode": 74,
+      "label": "HOME"
     },
     {
       "keyCode": 65535,
@@ -194,8 +193,8 @@
       "verbose": "Transparent"
     },
     {
-      "keyCode": 20546,
-      "label": "RIGHT",
+      "keyCode": 20545,
+      "label": "LEFT",
       "extraLabel": "M.Btn"
     },
     {
@@ -214,9 +213,8 @@
       "extraLabel": "Mouse"
     },
     {
-      "keyCode": 78,
-      "label": "PAGE DOWN",
-      "verbose": "Page Down"
+      "keyCode": 77,
+      "label": "END"
     },
     {
       "keyCode": 65535,
@@ -466,7 +464,7 @@
     0,
     8,
     0,
-    5,
+    11,
     3,
     3,
     3,
