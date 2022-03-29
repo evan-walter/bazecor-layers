@@ -301,9 +301,9 @@
       "verbose": "Disabled"
     },
     {
-      "keyCode": 17454,
+      "keyCode": 17496,
       "label": "4",
-      "extraLabel": "SHIFTTO"
+      "extraLabel": "MOVE"
     },
     {
       "keyCode": 40,
