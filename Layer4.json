@@ -115,10 +115,8 @@
       "verbose": "Transparent"
     },
     {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
+      "keyCode": 53,
+      "label": "`"
     },
     {
       "keyCode": 65535,
@@ -208,12 +206,13 @@
       "label": "ESC"
     },
     {
-      "keyCode": 53,
-      "label": "`"
-    },
-    {
       "keyCode": 43,
       "label": "TAB"
+    },
+    {
+      "keyCode": 227,
+      "label": "LEFT CMD",
+      "verbose": "Left Cmd"
     },
     {
       "keyCode": 65535,
@@ -410,9 +409,9 @@
       "verbose": "Transparent"
     },
     {
-      "keyCode": 17492,
-      "label": "0",
-      "extraLabel": "MOVE"
+      "keyCode": 0,
+      "label": "NO KEY",
+      "verbose": "Disabled"
     },
     {
       "keyCode": 65535,
@@ -477,7 +476,7 @@
     1,
     1,
     1,
-    1,
+    2,
     1,
     1,
     7,
@@ -498,7 +497,7 @@
     1,
     1,
     2,
-    4,
+    1,
     11,
     5,
     1,
