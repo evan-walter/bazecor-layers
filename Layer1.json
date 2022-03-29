@@ -232,10 +232,8 @@
       "verbose": "Disabled"
     },
     {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
+      "keyCode": 76,
+      "label": "DEL"
     },
     {
       "keyCode": 80,
@@ -493,7 +491,7 @@
     0,
     0,
     0,
-    6,
+    5,
     0,
     6,
     6,
