@@ -1,8 +1,9 @@
 {
   "keymap": [
     {
-      "keyCode": 41,
-      "label": "ESC"
+      "keyCode": 57,
+      "label": "CAPSLOCK",
+      "verbose": "Caps Lock"
     },
     {
       "keyCode": 30,
@@ -134,8 +135,8 @@
       "label": "ENTER"
     },
     {
-      "keyCode": 53,
-      "label": "`"
+      "keyCode": 41,
+      "label": "ESC"
     },
     {
       "keyCode": 4,
@@ -272,8 +273,8 @@
       "verbose": "Right Shift"
     },
     {
-      "keyCode": 17495,
-      "label": "3",
+      "keyCode": 17494,
+      "label": "2",
       "extraLabel": "MOVE"
     },
     {
@@ -301,18 +302,16 @@
       "verbose": "Disabled"
     },
     {
-      "keyCode": 17493,
-      "label": "1",
-      "extraLabel": "MOVE"
+      "keyCode": 43,
+      "label": "TAB"
+    },
+    {
+      "keyCode": 53,
+      "label": "`"
     },
     {
       "keyCode": 40,
       "label": "ENTER"
-    },
-    {
-      "keyCode": 17494,
-      "label": "2",
-      "extraLabel": "MOVE"
     },
     {
       "keyCode": 17493,
@@ -345,13 +344,13 @@
       "verbose": "Right Control"
     },
     {
-      "keyCode": 57,
-      "label": "CAPSLOCK",
-      "verbose": "Caps Lock"
+      "keyCode": 17495,
+      "label": "3",
+      "extraLabel": "MOVE"
     }
   ],
   "colormap": [
-    4,
+    7,
     4,
     4,
     4,
@@ -365,6 +364,41 @@
     4,
     4,
     7,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    1,
+    4,
+    4,
+    4,
+    2,
+    7,
+    7,
+    5,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    11,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
     4,
     4,
     4,
@@ -381,45 +415,10 @@
     4,
     4,
     4,
-    2,
-    6,
-    11,
-    5,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    11,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    4,
-    7,
-    4,
-    4,
-    4,
     5,
     2,
     6,
-    1,
+    11,
     4,
     4,
     4,

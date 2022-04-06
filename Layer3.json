@@ -339,9 +339,10 @@
       "verbose": "Disabled"
     },
     {
-      "keyCode": 17492,
-      "label": "0",
-      "extraLabel": "MOVE"
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
     },
     {
       "keyCode": 65535,
@@ -350,9 +351,10 @@
       "verbose": "Transparent"
     },
     {
-      "keyCode": 17492,
-      "label": "0",
-      "extraLabel": "MOVE"
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
     },
     {
       "keyCode": 17492,
@@ -421,7 +423,7 @@
     4,
     2,
     4,
-    11,
+    4,
     5,
     8,
     8,
@@ -457,7 +459,7 @@
     5,
     2,
     4,
-    4,
+    11,
     8,
     8,
     8,
