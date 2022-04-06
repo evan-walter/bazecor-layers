@@ -302,12 +302,12 @@
       "verbose": "Disabled"
     },
     {
-      "keyCode": 43,
-      "label": "TAB"
-    },
-    {
       "keyCode": 53,
       "label": "`"
+    },
+    {
+      "keyCode": 43,
+      "label": "TAB"
     },
     {
       "keyCode": 40,
