@@ -1,9 +1,8 @@
 {
   "keymap": [
     {
-      "keyCode": 57,
-      "label": "CAPSLOCK",
-      "verbose": "Caps Lock"
+      "keyCode": 41,
+      "label": "ESC"
     },
     {
       "keyCode": 30,
@@ -198,8 +197,9 @@
       "label": "'"
     },
     {
-      "keyCode": 49,
-      "label": "\\"
+      "keyCode": 52035,
+      "label": "\\",
+      "extraLabel": "L#3/"
     },
     {
       "keyCode": 225,
@@ -350,7 +350,7 @@
     }
   ],
   "colormap": [
-    7,
+    4,
     4,
     4,
     4,
@@ -398,7 +398,7 @@
     4,
     4,
     4,
-    4,
+    8,
     4,
     4,
     4,
