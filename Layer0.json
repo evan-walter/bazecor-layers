@@ -323,14 +323,14 @@
       "label": "SPACE"
     },
     {
-      "keyCode": 42,
-      "label": "BACKSPACE",
-      "verbose": "Backspace"
-    },
-    {
       "keyCode": 231,
       "label": "RIGHT CMD",
       "verbose": "Right Cmd"
+    },
+    {
+      "keyCode": 42,
+      "label": "BACKSPACE",
+      "verbose": "Backspace"
     },
     {
       "keyCode": 230,
@@ -414,8 +414,8 @@
     8,
     4,
     4,
-    4,
     5,
+    4,
     2,
     6,
     11,
