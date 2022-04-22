@@ -350,8 +350,10 @@
       "verbose": "Transparent"
     },
     {
-      "keyCode": 82,
-      "label": "↑"
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
     },
     {
       "keyCode": 17492,
@@ -424,16 +426,21 @@
       "verbose": "Backspace"
     },
     {
-      "keyCode": 80,
-      "label": "←"
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
     },
     {
-      "keyCode": 81,
-      "label": "↓"
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
     },
     {
-      "keyCode": 79,
-      "label": "→"
+      "keyCode": 17492,
+      "label": "0",
+      "extraLabel": "MOVE"
     }
   ],
   "colormap": [
@@ -492,15 +499,15 @@
     0,
     0,
     5,
-    0,
     6,
     6,
     6,
     6,
     6,
-    0,
-    0,
-    0,
+    6,
+    4,
+    6,
+    6,
     5,
     6,
     2,
