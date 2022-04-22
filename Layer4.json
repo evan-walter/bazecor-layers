@@ -267,8 +267,10 @@
       "label": "/"
     },
     {
-      "keyCode": 82,
-      "label": "↑"
+      "keyCode": 229,
+      "label": "RIGHT SHIFT",
+      "extraLabel": "",
+      "verbose": "Right Shift"
     },
     {
       "keyCode": 17494,
@@ -331,16 +333,20 @@
       "verbose": "Backspace"
     },
     {
-      "keyCode": 80,
-      "label": "←"
+      "keyCode": 230,
+      "label": "RIGHT ALT",
+      "extraLabel": "",
+      "verbose": "AltGr"
     },
     {
-      "keyCode": 81,
-      "label": "↓"
+      "keyCode": 228,
+      "label": "RIGHT CTRL",
+      "verbose": "Right Control"
     },
     {
-      "keyCode": 79,
-      "label": "→"
+      "keyCode": 17495,
+      "label": "3",
+      "extraLabel": "MOVE"
     }
   ],
   "colormap": [
@@ -399,15 +405,15 @@
     4,
     4,
     4,
-    0,
     4,
     4,
     4,
     4,
     4,
-    0,
-    0,
-    0,
+    4,
+    8,
+    4,
+    4,
     5,
     4,
     2,

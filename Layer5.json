@@ -13,16 +13,22 @@
       "verbose": "Transparent"
     },
     {
-      "keyCode": 74,
-      "label": "HOME"
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
     },
     {
-      "keyCode": 76,
-      "label": "DEL"
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
     },
     {
-      "keyCode": 77,
-      "label": "END"
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
     },
     {
       "keyCode": 65535,
@@ -132,22 +138,16 @@
       "verbose": "Disabled"
     },
     {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
+      "keyCode": 74,
+      "label": "HOME"
     },
     {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
+      "keyCode": 77,
+      "label": "END"
     },
     {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
+      "keyCode": 82,
+      "label": "↑"
     },
     {
       "keyCode": 65535,
@@ -231,28 +231,20 @@
       "verbose": "Disabled"
     },
     {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
+      "keyCode": 76,
+      "label": "DEL"
     },
     {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
+      "keyCode": 80,
+      "label": "←"
     },
     {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
+      "keyCode": 81,
+      "label": "↓"
     },
     {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
+      "keyCode": 79,
+      "label": "→"
     },
     {
       "keyCode": 65535,
@@ -358,10 +350,8 @@
       "verbose": "Transparent"
     },
     {
-      "keyCode": 229,
-      "label": "RIGHT SHIFT",
-      "extraLabel": "",
-      "verbose": "Right Shift"
+      "keyCode": 82,
+      "label": "↑"
     },
     {
       "keyCode": 17492,
@@ -434,28 +424,24 @@
       "verbose": "Backspace"
     },
     {
-      "keyCode": 230,
-      "label": "RIGHT ALT",
-      "extraLabel": "",
-      "verbose": "AltGr"
+      "keyCode": 80,
+      "label": "←"
     },
     {
-      "keyCode": 228,
-      "label": "RIGHT CTRL",
-      "verbose": "Right Control"
+      "keyCode": 81,
+      "label": "↓"
     },
     {
-      "keyCode": 17495,
-      "label": "3",
-      "extraLabel": "MOVE"
+      "keyCode": 79,
+      "label": "→"
     }
   ],
   "colormap": [
     6,
     6,
-    8,
-    5,
-    8,
+    6,
+    6,
+    6,
     6,
     6,
     6,
@@ -496,25 +482,25 @@
     6,
     6,
     6,
-    6,
-    6,
-    6,
+    0,
+    8,
+    8,
     3,
     6,
     6,
+    0,
+    0,
+    0,
+    5,
+    0,
     6,
     6,
     6,
     6,
     6,
-    6,
-    6,
-    6,
-    6,
-    6,
-    8,
-    6,
-    6,
+    0,
+    0,
+    0,
     5,
     6,
     2,
