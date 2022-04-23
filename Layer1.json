@@ -151,16 +151,14 @@
       "label": "↑"
     },
     {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
+      "keyCode": 75,
+      "label": "PAGE UP",
+      "verbose": "Page Up"
     },
     {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
+      "keyCode": 78,
+      "label": "PAGE DOWN",
+      "verbose": "Page Down"
     },
     {
       "keyCode": 65535,
@@ -487,8 +485,8 @@
     11,
     6,
     6,
-    6,
-    6,
+    8,
+    8,
     0,
     8,
     8,
