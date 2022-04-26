@@ -59,22 +59,21 @@
       "verbose": "Transparent"
     },
     {
-      "keyCode": 22710,
-      "label": "TRACK-",
-      "extraLabel": "Media",
-      "verbose": "Prev. track"
+      "keyCode": 19682,
+      "label": "MUTE",
+      "extraLabel": "Media"
     },
     {
-      "keyCode": 22709,
-      "label": "TRACK+",
+      "keyCode": 23786,
+      "label": "VOL-",
       "extraLabel": "Media",
-      "verbose": "Next track"
+      "verbose": "Volume down"
     },
     {
-      "keyCode": 22733,
-      "label": "PLAY",
+      "keyCode": 23785,
+      "label": "VOL+",
       "extraLabel": "Media",
-      "verbose": "Play / pause"
+      "verbose": "Volume up"
     },
     {
       "keyCode": 65535,
@@ -325,21 +324,22 @@
       "verbose": "Transparent"
     },
     {
-      "keyCode": 19682,
-      "label": "MUTE",
-      "extraLabel": "Media"
+      "keyCode": 22710,
+      "label": "TRACK-",
+      "extraLabel": "Media",
+      "verbose": "Prev. track"
     },
     {
-      "keyCode": 23786,
-      "label": "VOL-",
+      "keyCode": 22709,
+      "label": "TRACK+",
       "extraLabel": "Media",
-      "verbose": "Volume down"
+      "verbose": "Next track"
     },
     {
-      "keyCode": 23785,
-      "label": "VOL+",
+      "keyCode": 22733,
+      "label": "PLAY",
       "extraLabel": "Media",
-      "verbose": "Volume up"
+      "verbose": "Play / pause"
     },
     {
       "keyCode": 65535,
