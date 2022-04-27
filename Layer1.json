@@ -324,6 +324,12 @@
       "verbose": "Transparent"
     },
     {
+      "keyCode": 22733,
+      "label": "PLAY",
+      "extraLabel": "Media",
+      "verbose": "Play / pause"
+    },
+    {
       "keyCode": 22710,
       "label": "TRACK-",
       "extraLabel": "Media",
@@ -334,12 +340,6 @@
       "label": "TRACK+",
       "extraLabel": "Media",
       "verbose": "Next track"
-    },
-    {
-      "keyCode": 22733,
-      "label": "PLAY",
-      "extraLabel": "Media",
-      "verbose": "Play / pause"
     },
     {
       "keyCode": 65535,
