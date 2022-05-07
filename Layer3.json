@@ -366,10 +366,9 @@
       "label": "SPACE"
     },
     {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
+      "keyCode": 98,
+      "label": "0",
+      "extraLabel": "Numpad"
     },
     {
       "keyCode": 65535,
@@ -456,7 +455,7 @@
     0,
     0,
     4,
-    5,
+    9,
     2,
     4,
     11,
