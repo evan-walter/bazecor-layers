@@ -287,13 +287,13 @@
       "verbose": "Left Alt"
     },
     {
-      "keyCode": 44,
-      "label": "SPACE"
-    },
-    {
       "keyCode": 227,
       "label": "LEFT CMD",
       "verbose": "Left Cmd"
+    },
+    {
+      "keyCode": 44,
+      "label": "SPACE"
     },
     {
       "keyCode": 0,
@@ -318,13 +318,13 @@
       "extraLabel": "MOVE"
     },
     {
+      "keyCode": 44,
+      "label": "SPACE"
+    },
+    {
       "keyCode": 231,
       "label": "RIGHT CMD",
       "verbose": "Right Cmd"
-    },
-    {
-      "keyCode": 44,
-      "label": "SPACE"
     },
     {
       "keyCode": 42,
@@ -378,8 +378,8 @@
     1,
     4,
     4,
-    2,
     4,
+    2,
     7,
     7,
     5,
@@ -414,8 +414,8 @@
     4,
     4,
     5,
-    2,
     4,
+    2,
     6,
     11,
     4,
