@@ -327,9 +327,8 @@
       "verbose": "Right Cmd"
     },
     {
-      "keyCode": 42,
-      "label": "BACKSPACE",
-      "verbose": "Backspace"
+      "keyCode": 45,
+      "label": "-"
     },
     {
       "keyCode": 230,
@@ -382,9 +381,9 @@
     2,
     7,
     7,
+    4,
+    4,
     5,
-    4,
-    4,
     4,
     4,
     4,
