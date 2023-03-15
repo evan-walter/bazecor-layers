@@ -272,9 +272,9 @@
       "verbose": "Right Shift"
     },
     {
-      "keyCode": 17451,
+      "keyCode": 17493,
       "label": "1",
-      "extraLabel": "SHIFTTO"
+      "extraLabel": "MOVE"
     },
     {
       "keyCode": 224,
@@ -313,9 +313,9 @@
       "label": "ENTER"
     },
     {
-      "keyCode": 17493,
+      "keyCode": 17451,
       "label": "1",
-      "extraLabel": "MOVE"
+      "extraLabel": "SHIFTTO"
     },
     {
       "keyCode": 44,
