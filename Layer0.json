@@ -272,9 +272,9 @@
       "verbose": "Right Shift"
     },
     {
-      "keyCode": 17494,
-      "label": "2",
-      "extraLabel": "MOVE"
+      "keyCode": 17451,
+      "label": "1",
+      "extraLabel": "SHIFTTO"
     },
     {
       "keyCode": 224,
@@ -374,7 +374,7 @@
     4,
     4,
     4,
-    1,
+    6,
     4,
     4,
     4,
