@@ -134,8 +134,9 @@
       "label": "ENTER"
     },
     {
-      "keyCode": 41,
-      "label": "ESC"
+      "keyCode": 57,
+      "label": "CAPSLOCK",
+      "verbose": "Caps Lock"
     },
     {
       "keyCode": 4,
