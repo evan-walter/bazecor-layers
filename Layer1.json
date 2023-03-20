@@ -388,10 +388,8 @@
       "verbose": "Disabled"
     },
     {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
+      "keyCode": 53,
+      "label": "`"
     },
     {
       "keyCode": 65535,
@@ -406,9 +404,9 @@
       "verbose": "Transparent"
     },
     {
-      "keyCode": 17492,
+      "keyCode": 17450,
       "label": "0",
-      "extraLabel": "MOVE"
+      "extraLabel": "SHIFTTO"
     },
     {
       "keyCode": 65535,
@@ -477,7 +475,7 @@
     6,
     6,
     2,
-    6,
+    7,
     6,
     5,
     6,
