@@ -179,10 +179,9 @@
       "verbose": "Transparent"
     },
     {
-      "keyCode": 65535,
-      "label": "",
-      "extraLabel": "TRANS",
-      "verbose": "Transparent"
+      "keyCode": 57,
+      "label": "CAPSLOCK",
+      "verbose": "Caps Lock"
     },
     {
       "keyCode": 65535,
@@ -388,8 +387,10 @@
       "verbose": "Disabled"
     },
     {
-      "keyCode": 53,
-      "label": "`"
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
     },
     {
       "keyCode": 65535,
@@ -475,7 +476,7 @@
     6,
     6,
     2,
-    7,
+    6,
     6,
     5,
     6,

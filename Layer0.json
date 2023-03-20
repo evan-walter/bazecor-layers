@@ -134,9 +134,8 @@
       "label": "ENTER"
     },
     {
-      "keyCode": 57,
-      "label": "CAPSLOCK",
-      "verbose": "Caps Lock"
+      "keyCode": 40,
+      "label": "ENTER"
     },
     {
       "keyCode": 4,
@@ -302,8 +301,8 @@
       "verbose": "Disabled"
     },
     {
-      "keyCode": 40,
-      "label": "ENTER"
+      "keyCode": 53,
+      "label": "`"
     },
     {
       "keyCode": 43,
@@ -363,7 +362,7 @@
     4,
     4,
     4,
-    7,
+    11,
     4,
     4,
     4,
@@ -381,7 +380,7 @@
     4,
     4,
     2,
-    11,
+    7,
     7,
     4,
     4,
