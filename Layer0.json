@@ -310,8 +310,8 @@
       "label": "TAB"
     },
     {
-      "keyCode": 40,
-      "label": "ENTER"
+      "keyCode": 45,
+      "label": "-"
     },
     {
       "keyCode": 17451,
@@ -328,8 +328,9 @@
       "verbose": "Right Cmd"
     },
     {
-      "keyCode": 45,
-      "label": "-"
+      "keyCode": 17493,
+      "label": "1",
+      "extraLabel": "MOVE"
     },
     {
       "keyCode": 230,
@@ -413,11 +414,11 @@
     8,
     4,
     4,
-    5,
+    6,
     4,
     2,
     6,
-    11,
+    5,
     4,
     4,
     4,
