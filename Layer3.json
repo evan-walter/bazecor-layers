@@ -303,12 +303,14 @@
       "extraLabel": "Numpad"
     },
     {
-      "keyCode": 82,
-      "label": "↑"
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
     },
     {
-      "keyCode": 17492,
-      "label": "0",
+      "keyCode": 17494,
+      "label": "2",
       "extraLabel": "MOVE"
     },
     {
@@ -357,9 +359,9 @@
       "verbose": "Transparent"
     },
     {
-      "keyCode": 17492,
-      "label": "0",
-      "extraLabel": "MOVE"
+      "keyCode": 17451,
+      "label": "1",
+      "extraLabel": "SHIFTTO"
     },
     {
       "keyCode": 44,
@@ -377,16 +379,21 @@
       "verbose": "Transparent"
     },
     {
-      "keyCode": 80,
-      "label": "←"
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
     },
     {
-      "keyCode": 81,
-      "label": "↓"
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
     },
     {
-      "keyCode": 79,
-      "label": "→"
+      "keyCode": 17492,
+      "label": "0",
+      "extraLabel": "MOVE"
     }
   ],
   "colormap": [
@@ -416,21 +423,21 @@
     7,
     7,
     12,
-    4,
-    8,
-    8,
-    8,
-    8,
-    8,
-    8,
-    8,
-    3,
-    3,
-    3,
-    3,
-    3,
-    3,
     1,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    3,
+    3,
+    3,
+    3,
+    3,
+    3,
+    8,
     7,
     7,
     5,
@@ -445,20 +452,19 @@
     9,
     9,
     5,
-    0,
+    8,
     5,
     9,
     9,
     9,
     9,
-    0,
-    0,
-    0,
+    4,
+    8,
+    8,
     8,
     9,
     8,
-    4,
-    1,
+    6,
     8,
     8,
     8,
@@ -521,7 +527,8 @@
     8,
     8,
     8,
-    15
+    8,
+    8
   ],
   "palette": [
     {

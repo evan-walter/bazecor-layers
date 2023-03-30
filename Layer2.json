@@ -417,9 +417,9 @@
       "extraLabel": "M.Btn"
     },
     {
-      "keyCode": 17492,
-      "label": "0",
-      "extraLabel": "MOVE"
+      "keyCode": 17451,
+      "label": "1",
+      "extraLabel": "SHIFTTO"
     },
     {
       "keyCode": 20546,
@@ -507,19 +507,19 @@
     10,
     10,
     8,
-    6,
+    0,
     1,
     1,
     1,
     1,
     1,
-    6,
-    6,
-    6,
+    0,
+    0,
+    0,
     1,
     1,
     5,
-    4,
+    6,
     11,
     1,
     1,
