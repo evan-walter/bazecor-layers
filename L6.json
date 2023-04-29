@@ -270,9 +270,10 @@
       "label": "\\"
     },
     {
-      "keyCode": 17451,
-      "label": "2",
-      "extraLabel": "SHIFT"
+      "keyCode": 225,
+      "label": "SHIFT",
+      "extraLabel": "LEFT",
+      "verbose": "Left Shift"
     },
     {
       "keyCode": 100,
@@ -337,17 +338,18 @@
       "label": "<"
     },
     {
-      "keyCode": 2103,
-      "label": ">"
+      "keyCode": 21,
+      "label": "R"
     },
     {
       "keyCode": 2104,
       "label": "?"
     },
     {
-      "keyCode": 17451,
-      "label": "2",
-      "extraLabel": "SHIFT"
+      "keyCode": 229,
+      "label": "SHIFT",
+      "extraLabel": "RIGHT",
+      "verbose": "Right Shift"
     },
     {
       "keyCode": 41,
