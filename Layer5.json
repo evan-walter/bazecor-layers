@@ -1,0 +1,605 @@
+{
+  "keymap": [
+    {
+      "keyCode": 2101,
+      "label": "~"
+    },
+    {
+      "keyCode": 30,
+      "label": "1"
+    },
+    {
+      "keyCode": 31,
+      "label": "2"
+    },
+    {
+      "keyCode": 32,
+      "label": "3"
+    },
+    {
+      "keyCode": 33,
+      "label": "4"
+    },
+    {
+      "keyCode": 34,
+      "label": "5"
+    },
+    {
+      "keyCode": 35,
+      "label": "6"
+    },
+    {
+      "keyCode": 0,
+      "label": "NO KEY",
+      "verbose": "Disabled"
+    },
+    {
+      "keyCode": 0,
+      "label": "NO KEY",
+      "verbose": "Disabled"
+    },
+    {
+      "keyCode": 36,
+      "label": "7"
+    },
+    {
+      "keyCode": 37,
+      "label": "8"
+    },
+    {
+      "keyCode": 38,
+      "label": "9"
+    },
+    {
+      "keyCode": 39,
+      "label": "0"
+    },
+    {
+      "keyCode": 2082,
+      "label": "%"
+    },
+    {
+      "keyCode": 53,
+      "label": "`"
+    },
+    {
+      "keyCode": 42,
+      "label": "BACKSPACE",
+      "verbose": "Backspace"
+    },
+    {
+      "keyCode": 43,
+      "label": "TAB"
+    },
+    {
+      "keyCode": 2068,
+      "label": "Q",
+      "extraLabel": "S+"
+    },
+    {
+      "keyCode": 2074,
+      "label": "W",
+      "extraLabel": "S+"
+    },
+    {
+      "keyCode": 2056,
+      "label": "E",
+      "extraLabel": "S+"
+    },
+    {
+      "keyCode": 2069,
+      "label": "R",
+      "extraLabel": "S+"
+    },
+    {
+      "keyCode": 2071,
+      "label": "T",
+      "extraLabel": "S+"
+    },
+    {
+      "keyCode": 0,
+      "label": "NO KEY",
+      "verbose": "Disabled"
+    },
+    {
+      "keyCode": 0,
+      "label": "NO KEY",
+      "verbose": "Disabled"
+    },
+    {
+      "keyCode": 2076,
+      "label": "Y",
+      "extraLabel": "S+"
+    },
+    {
+      "keyCode": 2072,
+      "label": "U",
+      "extraLabel": "S+"
+    },
+    {
+      "keyCode": 82,
+      "label": "↑"
+    },
+    {
+      "keyCode": 2066,
+      "label": "O",
+      "extraLabel": "S+"
+    },
+    {
+      "keyCode": 2067,
+      "label": "P",
+      "extraLabel": "S+"
+    },
+    {
+      "keyCode": 2100,
+      "label": "\""
+    },
+    {
+      "keyCode": 2083,
+      "label": "^"
+    },
+    {
+      "keyCode": 40,
+      "label": "ENTER"
+    },
+    {
+      "keyCode": 57,
+      "label": "CAPSLOCK",
+      "verbose": "Caps Lock"
+    },
+    {
+      "keyCode": 2052,
+      "label": "A",
+      "extraLabel": "S+"
+    },
+    {
+      "keyCode": 2070,
+      "label": "S",
+      "extraLabel": "S+"
+    },
+    {
+      "keyCode": 2055,
+      "label": "D",
+      "extraLabel": "S+"
+    },
+    {
+      "keyCode": 2057,
+      "label": "F",
+      "extraLabel": "S+"
+    },
+    {
+      "keyCode": 2058,
+      "label": "G",
+      "extraLabel": "S+"
+    },
+    {
+      "keyCode": 0,
+      "label": "NO KEY",
+      "verbose": "Disabled"
+    },
+    {
+      "keyCode": 0,
+      "label": "NO KEY",
+      "verbose": "Disabled"
+    },
+    {
+      "keyCode": 0,
+      "label": "NO KEY",
+      "verbose": "Disabled"
+    },
+    {
+      "keyCode": 2059,
+      "label": "H",
+      "extraLabel": "S+"
+    },
+    {
+      "keyCode": 80,
+      "label": "←"
+    },
+    {
+      "keyCode": 81,
+      "label": "↓"
+    },
+    {
+      "keyCode": 79,
+      "label": "→"
+    },
+    {
+      "keyCode": 2099,
+      "label": ":"
+    },
+    {
+      "keyCode": 2093,
+      "label": "_"
+    },
+    {
+      "keyCode": 49,
+      "label": "\\"
+    },
+    {
+      "keyCode": 225,
+      "label": "LEFT SHIFT",
+      "verbose": "Left Shift"
+    },
+    {
+      "keyCode": 100,
+      "label": "ISO <>",
+      "verbose": "ISO <>"
+    },
+    {
+      "keyCode": 2077,
+      "label": "Z",
+      "extraLabel": "S+"
+    },
+    {
+      "keyCode": 2075,
+      "label": "X",
+      "extraLabel": "S+"
+    },
+    {
+      "keyCode": 2054,
+      "label": "C",
+      "extraLabel": "S+"
+    },
+    {
+      "keyCode": 2073,
+      "label": "V",
+      "extraLabel": "S+"
+    },
+    {
+      "keyCode": 2053,
+      "label": "B",
+      "extraLabel": "S+"
+    },
+    {
+      "keyCode": 0,
+      "label": "NO KEY",
+      "verbose": "Disabled"
+    },
+    {
+      "keyCode": 0,
+      "label": "NO KEY",
+      "verbose": "Disabled"
+    },
+    {
+      "keyCode": 0,
+      "label": "NO KEY",
+      "verbose": "Disabled"
+    },
+    {
+      "keyCode": 2065,
+      "label": "N",
+      "extraLabel": "S+"
+    },
+    {
+      "keyCode": 2064,
+      "label": "M",
+      "extraLabel": "S+"
+    },
+    {
+      "keyCode": 2102,
+      "label": "<"
+    },
+    {
+      "keyCode": 2103,
+      "label": ">"
+    },
+    {
+      "keyCode": 2104,
+      "label": "?"
+    },
+    {
+      "keyCode": 229,
+      "label": "RIGHT SHIFT",
+      "extraLabel": "",
+      "verbose": "Right Shift"
+    },
+    {
+      "keyCode": 41,
+      "label": "ESC"
+    },
+    {
+      "keyCode": 224,
+      "label": "LEFT CTRL",
+      "verbose": "Left Control"
+    },
+    {
+      "keyCode": 226,
+      "label": "LEFT ALT",
+      "verbose": "Left Alt"
+    },
+    {
+      "keyCode": 227,
+      "label": "LEFT CMD",
+      "verbose": "Left Cmd"
+    },
+    {
+      "keyCode": 44,
+      "label": "SPACE"
+    },
+    {
+      "keyCode": 0,
+      "label": "NO KEY",
+      "verbose": "Disabled"
+    },
+    {
+      "keyCode": 2101,
+      "label": "~"
+    },
+    {
+      "keyCode": 43,
+      "label": "TAB"
+    },
+    {
+      "keyCode": 40,
+      "label": "ENTER"
+    },
+    {
+      "keyCode": 17455,
+      "label": "5",
+      "extraLabel": "SHIFTTO"
+    },
+    {
+      "keyCode": 44,
+      "label": "SPACE"
+    },
+    {
+      "keyCode": 231,
+      "label": "RIGHT CMD",
+      "verbose": "Right Cmd"
+    },
+    {
+      "keyCode": 42,
+      "label": "BACKSPACE",
+      "verbose": "Backspace"
+    },
+    {
+      "keyCode": 230,
+      "label": "RIGHT ALT",
+      "extraLabel": "",
+      "verbose": "AltGr"
+    },
+    {
+      "keyCode": 228,
+      "label": "RIGHT CTRL",
+      "verbose": "Right Control"
+    },
+    {
+      "keyCode": 17494,
+      "label": "2",
+      "extraLabel": "MOVE"
+    }
+  ],
+  "colormap": [
+    9,
+    9,
+    9,
+    9,
+    9,
+    9,
+    9,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    0,
+    1,
+    1,
+    1,
+    1,
+    1,
+    4,
+    4,
+    1,
+    1,
+    1,
+    1,
+    1,
+    9,
+    1,
+    1,
+    1,
+    2,
+    7,
+    7,
+    5,
+    9,
+    9,
+    9,
+    9,
+    9,
+    9,
+    11,
+    9,
+    9,
+    1,
+    1,
+    0,
+    1,
+    1,
+    9,
+    9,
+    9,
+    0,
+    0,
+    0,
+    1,
+    4,
+    9,
+    9,
+    9,
+    1,
+    1,
+    6,
+    1,
+    1,
+    5,
+    1,
+    2,
+    12,
+    11,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1
+  ],
+  "palette": [
+    {
+      "r": 255,
+      "g": 196,
+      "b": 0,
+      "rgb": "rgb(255, 196, 0)"
+    },
+    {
+      "r": 0,
+      "g": 254,
+      "b": 24,
+      "rgb": "rgb(0, 254, 24)"
+    },
+    {
+      "r": 255,
+      "g": 255,
+      "b": 255,
+      "rgb": "rgb(255, 255, 255)"
+    },
+    {
+      "r": 231,
+      "g": 255,
+      "b": 0,
+      "rgb": "rgb(231, 255, 0)"
+    },
+    {
+      "r": 0,
+      "g": 254,
+      "b": 234,
+      "rgb": "rgb(0, 254, 234)"
+    },
+    {
+      "r": 0,
+      "g": 52,
+      "b": 255,
+      "rgb": "rgb(0, 52, 255)"
+    },
+    {
+      "r": 255,
+      "g": 0,
+      "b": 232,
+      "rgb": "rgb(255, 0, 232)"
+    },
+    {
+      "r": 87,
+      "g": 164,
+      "b": 255,
+      "rgb": "rgb(87, 164, 255)"
+    },
+    {
+      "r": 144,
+      "g": 19,
+      "b": 254,
+      "rgb": "rgb(144, 19, 254)"
+    },
+    {
+      "r": 239,
+      "g": 219,
+      "b": 255,
+      "rgb": "rgb(239, 219, 255)"
+    },
+    {
+      "r": 214,
+      "g": 129,
+      "b": 255,
+      "rgb": "rgb(214, 129, 255)"
+    },
+    {
+      "r": 255,
+      "g": 9,
+      "b": 0,
+      "rgb": "rgb(255, 9, 0)"
+    },
+    {
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "rgb": "rgb(0, 0, 0)"
+    },
+    {
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "rgb": "rgb(0, 0, 0)"
+    },
+    {
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "rgb": "rgb(0, 0, 0)"
+    },
+    {
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "rgb": "rgb(0, 0, 0)"
+    }
+  ]
+}
