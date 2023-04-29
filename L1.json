@@ -168,8 +168,8 @@
       "label": "P"
     },
     {
-      "keyCode": 56,
-      "label": "/"
+      "keyCode": 52,
+      "label": "'"
     },
     {
       "keyCode": 2079,
@@ -315,8 +315,8 @@
       "label": "."
     },
     {
-      "keyCode": 52,
-      "label": "'"
+      "keyCode": 56,
+      "label": "/"
     },
     {
       "keyCode": 17451,
