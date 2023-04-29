@@ -163,9 +163,8 @@
       "extraLabel": "S+"
     },
     {
-      "keyCode": 2060,
-      "label": "I",
-      "extraLabel": "S+"
+      "keyCode": 82,
+      "label": "↑"
     },
     {
       "keyCode": 2066,
@@ -243,19 +242,16 @@
       "extraLabel": "S+"
     },
     {
-      "keyCode": 2061,
-      "label": "J",
-      "extraLabel": "S+"
+      "keyCode": 80,
+      "label": "←"
     },
     {
-      "keyCode": 2062,
-      "label": "K",
-      "extraLabel": "S+"
+      "keyCode": 81,
+      "label": "↓"
     },
     {
-      "keyCode": 2063,
-      "label": "L",
-      "extraLabel": "S+"
+      "keyCode": 79,
+      "label": "→"
     },
     {
       "keyCode": 2099,
