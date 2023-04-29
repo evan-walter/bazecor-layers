@@ -261,8 +261,8 @@
       "extraLabel": "Media"
     },
     {
-      "keyCode": 17452,
-      "label": "2",
+      "keyCode": 17455,
+      "label": "5",
       "extraLabel": "SHIFTTO"
     },
     {
@@ -343,8 +343,8 @@
       "verbose": "Transparent"
     },
     {
-      "keyCode": 17452,
-      "label": "2",
+      "keyCode": 17455,
+      "label": "5",
       "extraLabel": "SHIFTTO"
     },
     {
@@ -460,7 +460,7 @@
     6,
     9,
     6,
-    1,
+    12,
     15,
     6,
     6,
@@ -496,7 +496,7 @@
     0,
     0,
     5,
-    1,
+    12,
     6,
     7,
     7,
