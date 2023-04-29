@@ -153,24 +153,29 @@
       "verbose": "Disabled"
     },
     {
-      "keyCode": 28,
-      "label": "Y"
+      "keyCode": 2076,
+      "label": "Y",
+      "extraLabel": "S+"
     },
     {
-      "keyCode": 24,
-      "label": "U"
+      "keyCode": 2072,
+      "label": "U",
+      "extraLabel": "S+"
     },
     {
-      "keyCode": 12,
-      "label": "I"
+      "keyCode": 2060,
+      "label": "I",
+      "extraLabel": "S+"
     },
     {
-      "keyCode": 18,
-      "label": "O"
+      "keyCode": 2066,
+      "label": "O",
+      "extraLabel": "S+"
     },
     {
-      "keyCode": 19,
-      "label": "P"
+      "keyCode": 2067,
+      "label": "P",
+      "extraLabel": "S+"
     },
     {
       "keyCode": 52,
@@ -233,20 +238,24 @@
       "verbose": "Disabled"
     },
     {
-      "keyCode": 11,
-      "label": "H"
+      "keyCode": 2059,
+      "label": "H",
+      "extraLabel": "S+"
     },
     {
-      "keyCode": 13,
-      "label": "J"
+      "keyCode": 2061,
+      "label": "J",
+      "extraLabel": "S+"
     },
     {
-      "keyCode": 14,
-      "label": "K"
+      "keyCode": 2062,
+      "label": "K",
+      "extraLabel": "S+"
     },
     {
-      "keyCode": 15,
-      "label": "L"
+      "keyCode": 2063,
+      "label": "L",
+      "extraLabel": "S+"
     },
     {
       "keyCode": 51,
@@ -314,12 +323,14 @@
       "verbose": "Disabled"
     },
     {
-      "keyCode": 17,
-      "label": "N"
+      "keyCode": 2065,
+      "label": "N",
+      "extraLabel": "S+"
     },
     {
-      "keyCode": 16,
-      "label": "M"
+      "keyCode": 2064,
+      "label": "M",
+      "extraLabel": "S+"
     },
     {
       "keyCode": 54,
