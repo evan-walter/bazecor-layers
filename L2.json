@@ -99,12 +99,12 @@
       "label": "0"
     },
     {
-      "keyCode": 2078,
-      "label": "!"
+      "keyCode": 2082,
+      "label": "%"
     },
     {
-      "keyCode": 2097,
-      "label": "|"
+      "keyCode": 53,
+      "label": "`"
     },
     {
       "keyCode": 42,
@@ -178,12 +178,12 @@
       "extraLabel": "S+"
     },
     {
-      "keyCode": 52,
-      "label": "'"
+      "keyCode": 2100,
+      "label": "\""
     },
     {
-      "keyCode": 2079,
-      "label": "@"
+      "keyCode": 2083,
+      "label": "^"
     },
     {
       "keyCode": 40,
@@ -333,16 +333,16 @@
       "extraLabel": "S+"
     },
     {
-      "keyCode": 54,
-      "label": ","
+      "keyCode": 2102,
+      "label": "<"
     },
     {
-      "keyCode": 55,
-      "label": "."
+      "keyCode": 2103,
+      "label": ">"
     },
     {
-      "keyCode": 56,
-      "label": "/"
+      "keyCode": 2104,
+      "label": "?"
     },
     {
       "keyCode": 17451,
