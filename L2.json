@@ -380,8 +380,8 @@
       "verbose": "Disabled"
     },
     {
-      "keyCode": 53,
-      "label": "`"
+      "keyCode": 2101,
+      "label": "~"
     },
     {
       "keyCode": 43,
