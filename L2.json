@@ -178,8 +178,8 @@
       "extraLabel": "S+"
     },
     {
-      "keyCode": 2100,
-      "label": "\""
+      "keyCode": 2099,
+      "label": ":"
     },
     {
       "keyCode": 2083,
@@ -258,8 +258,8 @@
       "extraLabel": "S+"
     },
     {
-      "keyCode": 2099,
-      "label": ":"
+      "keyCode": 2100,
+      "label": "\""
     },
     {
       "keyCode": 2093,
