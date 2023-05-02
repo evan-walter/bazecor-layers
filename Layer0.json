@@ -122,8 +122,8 @@
       "label": "P"
     },
     {
-      "keyCode": 51,
-      "label": ";"
+      "keyCode": 45,
+      "label": "-"
     },
     {
       "keyCode": 2079,
@@ -190,12 +190,12 @@
       "label": "L"
     },
     {
-      "keyCode": 52,
-      "label": "'"
+      "keyCode": 51,
+      "label": ";"
     },
     {
-      "keyCode": 45,
-      "label": "-"
+      "keyCode": 52,
+      "label": "'"
     },
     {
       "keyCode": 49,
